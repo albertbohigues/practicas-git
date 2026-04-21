@@ -14,3 +14,5 @@ Familiarizarme con el uso de Git desde la terminal, la creación de repositorios
 ## Herramientas
 - Git
 - GitHub
+## Estado
+Repositorio en prácticas de Git
